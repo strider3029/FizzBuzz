@@ -14,11 +14,9 @@
 # 
 
 
-# Ignore project files in the root #
-####################################
-/*.sln
+# Ignore some project files in the root #
+#########################################
 /*.xcodeproj
-/*/*.sln
 /*/*.xcodeproj
 
 # Ignore local user Visual Studio files in any folder #
